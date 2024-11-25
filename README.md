@@ -15,4 +15,5 @@
     cd frontend
     npm install axios react-router-dom
     npm start
+    npm i axios react-icons
 ```
