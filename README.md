@@ -16,4 +16,7 @@
     npm install axios react-router-dom
     npm start
     npm i axios react-icons
+    
+    // for Display notifications with call of a function
+    npm install notistack
 ```
